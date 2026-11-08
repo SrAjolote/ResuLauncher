@@ -1,11 +1,12 @@
 # Dependencias y temporales
+decompiled_app/
 node_modules/
 .npmrc
 
-# Binarios y compilados grandes de Electron (para Releases de GitHub)
+# Instalador antiguo, carpeta descomprimida y binario grande
 Dbr-Launcher-1.0.34-setup.exe
-Dbr-Launcher-Portable.zip
 Dbr-Launcher-Portable/
+Dbr-Launcher-Portable.zip
 
 # Sistema y logs
 *.log
