@@ -1,0 +1,14 @@
+{
+  "name": "dbr-launcher",
+  "version": "9.9.9",
+  "description": "Launcher de la comunidad Dbr — Minecraft Forge 1.7.10",
+  "author": "Dbr",
+  "main": "./out/main/index.js",
+  "dependencies": {
+    "@fontsource/pixelify-sans": "^5.3.0",
+    "electron-updater": "^6.3.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^5.0.1"
+  }
+}

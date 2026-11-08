@@ -1,0 +1,13 @@
+# Dependencias y temporales
+node_modules/
+.npmrc
+
+# Binarios y compilados grandes de Electron (para Releases de GitHub)
+Dbr-Launcher-1.0.34-setup.exe
+Dbr-Launcher-Portable.zip
+Dbr-Launcher-Portable/
+
+# Sistema y logs
+*.log
+.DS_Store
+Thumbs.db
