@@ -71,3 +71,4 @@ const manifest = {
 fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
 const mb = (files.reduce((s, f) => s + f.size, 0) / (1024 * 1024)).toFixed(1);
 console.log(`✅ manifest.json generado con éxito: ${files.length} archivos, ${mb} MB (versión ${version})`);
+
