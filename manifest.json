@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minecraft": "1.7.10",
   "forge": "10.13.4.1614",
   "files": [
@@ -7,103 +7,103 @@
       "path": "mods/+unimixins-all-1.7.10-0.1.23.jar",
       "sha1": "758ddc3f969d22f85da74fc8b1680d9ea822d8be",
       "size": 5786196,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/%2Bunimixins-all-1.7.10-0.1.23.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/%2Bunimixins-all-1.7.10-0.1.23.jar"
     },
     {
       "path": "mods/bspkrsCore-6.16.1.jar",
       "sha1": "850dd81e6b34da40399f8f3079579e11204dd5a0",
       "size": 198655,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/bspkrsCore-6.16.1.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/bspkrsCore-6.16.1.jar"
     },
     {
       "path": "mods/CoreTweaks-1.7.10-0.3.3.2.jar",
       "sha1": "e7751986fec3ca3ce871ebde56ad9672032946f2",
       "size": 2196921,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/CoreTweaks-1.7.10-0.3.3.2.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/CoreTweaks-1.7.10-0.3.3.2.jar"
     },
     {
       "path": "mods/CustomNPC-Plus-5.6.0.jar",
       "sha1": "c402c0b0973210669ea2cb3330394bbf99d54f44",
       "size": 25109292,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/CustomNPC-Plus-5.6.0.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/CustomNPC-Plus-5.6.0.jar"
     },
     {
       "path": "mods/DbrFrutas.jar",
       "sha1": "1c55f9737cf2a72fe64fa9863010c4717314943e",
       "size": 31319,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/DbrFrutas.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/DbrFrutas.jar"
     },
     {
       "path": "mods/DbrServerPack-5.8.0.jar",
       "sha1": "e9e92f83c40a799d5d67f9e2bb045c8f4f9f388f",
       "size": 37578515,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/DbrServerPack-5.8.0.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/DbrServerPack-5.8.0.jar"
     },
     {
       "path": "mods/dbsparking-1.0.jar",
       "sha1": "28818e4260cd74f6c4b6b368ec5f1fbdc7d355e3",
       "size": 18062,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/dbsparking-1.0.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/dbsparking-1.0.jar"
     },
     {
       "path": "mods/DragonBlockC-v1.4.85.jar",
       "sha1": "4d5d2ae7016be49c0d47aa9e54adada8fc3f27ab",
       "size": 15187123,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/DragonBlockC-v1.4.85.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/DragonBlockC-v1.4.85.jar"
     },
     {
       "path": "mods/EtFuturumDbr-1.0.0.jar",
       "sha1": "e556bf7f19751cb1d893303ffea46843a64c70f0",
       "size": 8834465,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/EtFuturumDbr-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/EtFuturumDbr-1.0.0.jar"
     },
     {
       "path": "mods/JBRA-Client-v1.6.52.jar",
       "sha1": "be242f62ad2768e205402adc6dc6db9214716a6d",
       "size": 129587,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/JBRA-Client-v1.6.52.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/JBRA-Client-v1.6.52.jar"
     },
     {
       "path": "mods/JFamilyC-v1.2.18.jar",
       "sha1": "a9f1d12767d1b168c0e1397346f73649741be249",
       "size": 146745,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/JFamilyC-v1.2.18.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/JFamilyC-v1.2.18.jar"
     },
     {
       "path": "mods/JRMCore-v1.3.51.jar",
       "sha1": "b0d22df0da95a0456b3b79da3b0e8673a1cafcfb",
       "size": 2560555,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/JRMCore-v1.3.51.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/JRMCore-v1.3.51.jar"
     },
     {
       "path": "mods/JYearsC-v1.2.5.jar",
       "sha1": "7e5eefc9d5c14a3f1c2c3310d60c56809a7ec7a6",
       "size": 61192,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/JYearsC-v1.2.5.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/JYearsC-v1.2.5.jar"
     },
     {
       "path": "mods/NBArmors-1.0.0.jar",
       "sha1": "ad7b0144ef6ab5b2ad6684c0acc20d47ac82c5fb",
       "size": 5136960,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/NBArmors-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/NBArmors-1.0.0.jar"
     },
     {
       "path": "mods/ninjinentities-1.2.7.4.jar",
       "sha1": "5c312d167d1059a87bddc5bbfe1dff035f8849a4",
       "size": 5802067,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/ninjinentities-1.2.7.4.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/ninjinentities-1.2.7.4.jar"
     },
     {
       "path": "mods/npcdbc-5.4.0.jar",
       "sha1": "80fcd59b15ea456bae0acdb5cb32bfb3b3830903",
       "size": 4391172,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/MODS/npcdbc-5.4.0.jar"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/npcdbc-5.4.0.jar"
     },
     {
       "path": "resourcepacks/DbrTexture v6.zip",
       "sha1": "ed3f6d725f6dbd34ed09da374a49e3d595228673",
       "size": 4315895,
-      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/main/DbrTexture%20v6.zip"
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/DbrTexture%20v6.zip"
     }
   ]
 }

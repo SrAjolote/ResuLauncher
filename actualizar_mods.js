@@ -4,7 +4,7 @@ const path = require('path');
 
 const repoOwner = 'SrAjolote';
 const repoName = 'ResuLauncher';
-const branch = 'main';
+const branch = 'DBR-ASSETS';
 
 const baseUrl = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/MODS/`;
 const modsDir = path.join(__dirname, 'MODS');
