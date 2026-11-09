@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "minecraft": "1.7.10",
   "forge": "10.13.4.1614",
   "files": [
@@ -8,6 +8,12 @@
       "sha1": "758ddc3f969d22f85da74fc8b1680d9ea822d8be",
       "size": 5786196,
       "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/%2Bunimixins-all-1.7.10-0.1.23.jar"
+    },
+    {
+      "path": "mods/AutoLogin-2.0.jar",
+      "sha1": "3763c07b9f5e1069a2e9e74b7a7f0f530ae1141d",
+      "size": 69309,
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/AutoLogin-2.0.jar"
     },
     {
       "path": "mods/bspkrsCore-6.16.1.jar",
@@ -98,6 +104,12 @@
       "sha1": "80fcd59b15ea456bae0acdb5cb32bfb3b3830903",
       "size": 4391172,
       "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/npcdbc-5.4.0.jar"
+    },
+    {
+      "path": "mods/toggler-17.10-0.1.jar",
+      "sha1": "693ed08b621ca091421c440d9a838d64a5e2d57c",
+      "size": 7102,
+      "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/toggler-17.10-0.1.jar"
     },
     {
       "path": "resourcepacks/DbrTexture v6.zip",
