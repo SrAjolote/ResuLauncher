@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "minecraft": "1.7.10",
   "forge": "10.13.4.1614",
   "files": [
@@ -41,8 +41,8 @@
     },
     {
       "path": "mods/DbrServerPack-5.8.0.jar",
-      "sha1": "e9e92f83c40a799d5d67f9e2bb045c8f4f9f388f",
-      "size": 37578515,
+      "sha1": "3f7f7ab6412600de50592007ba225c84e47f3a0a",
+      "size": 38007061,
       "url": "https://raw.githubusercontent.com/SrAjolote/ResuLauncher/DBR-ASSETS/MODS/DbrServerPack-5.8.0.jar"
     },
     {
