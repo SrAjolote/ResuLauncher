@@ -3,10 +3,12 @@ decompiled_app/
 node_modules/
 .npmrc
 
-# Instalador antiguo, carpeta descomprimida y binario grande
+# Instalador antiguo, carpeta descomprimida y binarios grandes
 Dbr-Launcher-1.0.34-setup.exe
 Dbr-Launcher-Portable/
 Dbr-Launcher-Portable.zip
+Dbr-Launcher-Linux/
+Dbr-Launcher-Linux-x64.tar.gz
 
 # Sistema y logs
 *.log
